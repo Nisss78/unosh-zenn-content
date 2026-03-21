@@ -1,0 +1,58 @@
+{
+  "opennews": {
+    "morning": {
+      "lastRun": "2026-03-21",
+      "status": "failed",
+      "articlesCount": 0,
+      "error": "OpenAI API key not valid (placeholder value)"
+    },
+    "evening": {
+      "lastRun": "2026-03-21",
+      "status": "failed",
+      "articlesCount": 0,
+      "error": "OpenAI API key not valid (placeholder value)"
+    }
+  },
+  "improvisedNovel": {
+    "currentWork": {
+      "title": "コード・マジック 〜異世界で魔法をプログラミング〜",
+      "genre": "異世界ファンタジー",
+      "protagonist": "海藤翔太（カイト）",
+      "characters": [
+        "カイト",
+        "エリナ",
+        "リアム",
+        "セシリア",
+        "アルフレッド（守人）",
+        "リリス",
+        "エレノア（シルヴィアの母）",
+        "ミラベル（管理者）",
+        "ヴォルター（管理者）",
+        "アークライト（敵対者）",
+        "試練の化身（解放された老人）",
+        "リリアナ（時空魔法使い）",
+        "フローズナ（氷の賢者）",
+        "イグニス（火の賢者）",
+        "フェニックス（炎の守護獣）",
+        "ヒナタ（風の剣士）",
+        "マヤ（支部の受付）",
+        "ルナ（見習い冒険者）",
+        "ライラ（雷の賢者）",
+        "シルヴァ（時空の守護者）",
+        "テオドール（アルヴァレス支部長）",
+        "ヴィクトル船長",
+        "レイモンド（因果の探求者）"
+      ],
+      "startedAt": "2026-03-19"
+    },
+    "lastChapter": 317,
+    "lastTitle": "第317章：因果の探求者",
+    "lastPostedAt": "2026-03-21T20:15:00+09:00",
+    "lastUrl": "https://blog.hatena.ne.jp/Protoduct3/protoduct.hatenablog.com/atom/entry/17179246901367661085",
+    "totalChapters": 85,
+    "pendingPosts": [],
+    "intervalMinutes": 10,
+    "cronJobId": "971f8e88-cf27-4df5-a2c8-d0885a923c69",
+    "note": "HTML形式。cron jobで10分おき自動投稿。timeout=3600秒。"
+  }
+}
