@@ -1,7 +1,26 @@
 {
+  "investNewsSummary": {
+    "morning": {
+      "lastRun": null,
+      "status": null
+    },
+    "noon": {
+      "lastRun": "2026-03-22",
+      "status": "success",
+      "collectedAt": "2026-03-22T14:08:00+09:00"
+    },
+    "evening": {
+      "lastRun": null,
+      "status": null
+    }
+  },
+  "leadLagResult": {
+    "lastCheck": "2026-03-22",
+    "lastResult": "weekend_no_data"
+  },
   "opennews": {
     "morning": {
-      "lastRun": "2026-03-21",
+      "lastRun": "2026-03-22",
       "status": "failed",
       "articlesCount": 0,
       "error": "OpenAI API key not valid (placeholder value)"
@@ -41,16 +60,167 @@
         "シルヴァ（時空の守護者）",
         "テオドール（アルヴァレス支部長）",
         "ヴィクトル船長",
-        "レイモンド（因果の探求者）"
+        "レイモンド（因果の探求者）",
+        "ヴェロニカ（境界の観測者）",
+        "セラ（沈黙の守護者）",
+        "アーク（空虚の守護者）",
+        "アンブローズ・ヴェイル（境界の研究者）",
+        "ミオ（湖の守護者）",
+        "サラ（深淵の魔女）"
       ],
       "startedAt": "2026-03-19"
     },
-    "lastChapter": 317,
-    "lastTitle": "第317章：因果の探求者",
-    "lastPostedAt": "2026-03-21T20:15:00+09:00",
-    "lastUrl": "https://blog.hatena.ne.jp/Protoduct3/protoduct.hatenablog.com/atom/entry/17179246901367661085",
-    "totalChapters": 85,
-    "pendingPosts": [],
+    "lastChapter": 425,
+    "lastTitle": "第425章：新しい朝",
+    "lastPostedAt": "2026-03-22T12:50:00+09:00",
+    "lastUrl": "",
+    "totalChapters": 95,
+    "pendingPosts": [
+      {
+        "chapter": 425,
+        "title": "第425章：新しい朝",
+        "file": "2026-03-22-chapter-425.html",
+        "createdAt": "2026-03-22T15:00:00+09:00"
+      },
+      {
+        "chapter": 423,
+        "title": "第423章：夜空の下で",
+        "file": "2026-03-22-chapter-423.html",
+        "createdAt": "2026-03-22T14:41:41+09:00"
+      },
+      {
+        "chapter": 418,
+        "title": "第418章：地の記憶",
+        "file": "2026-03-22-chapter-418.html",
+        "createdAt": "2026-03-22T13:50:00+09:00"
+      },
+      {
+        "chapter": 417,
+        "title": "第417章：次なる風の呼び声",
+        "file": "2026-03-22-chapter-417.html",
+        "createdAt": "2026-03-22T13:40:00+09:00"
+      },
+      {
+        "chapter": 416,
+        "title": "第416章：境界と嵐の衝突",
+        "file": "2026-03-22-chapter-416.html",
+        "createdAt": "2026-03-22T13:30:00+09:00"
+      },
+      {
+        "chapter": 415,
+        "title": "第415章：嵐の先兵",
+        "file": "2026-03-22-chapter-415.html",
+        "createdAt": "2026-03-22T13:20:00+09:00"
+      },
+      {
+        "chapter": 412,
+        "title": "第412章：炎帝との対面",
+        "file": "2026-03-22-chapter-412.html",
+        "createdAt": "2026-03-22T12:50:00+09:00"
+      },
+      {
+        "chapter": 411,
+        "title": "第411章：灼熱の道",
+        "file": "2026-03-22-chapter-411.html",
+        "createdAt": "2026-03-22T12:30:00+09:00"
+      },
+      {
+        "chapter": 410,
+        "title": "第410章：旅立ちの朝",
+        "file": "2026-03-22-chapter-410.html",
+        "createdAt": "2026-03-22T12:20:00+09:00"
+      },
+      {
+        "chapter": 405,
+        "title": "第405章：静寂の村",
+        "file": "2026-03-22-chapter-405.html",
+        "createdAt": "2026-03-22T11:29:00+09:00"
+      },
+      {
+        "chapter": 404,
+        "title": "第404章：風の便り",
+        "file": "2026-03-22-chapter-404.html",
+        "createdAt": "2026-03-22T11:19:00+09:00"
+      },
+      {
+        "chapter": 403,
+        "title": "第403章：新しい日常",
+        "file": "2026-03-22-chapter-403.html",
+        "createdAt": "2026-03-22T11:10:00+09:00"
+      },
+      {
+        "chapter": 402,
+        "title": "第402章：意志の戦い",
+        "file": "2026-03-22-chapter-402.html",
+        "createdAt": "2026-03-22T11:00:00+09:00"
+      },
+      {
+        "chapter": 401,
+        "title": "第401章：源への道",
+        "file": "2026-03-22-chapter-401.html",
+        "createdAt": "2026-03-22T10:50:00+09:00"
+      },
+      {
+        "chapter": 400,
+        "title": "第400章：管理者の血脈",
+        "file": "2026-03-22-chapter-400.html",
+        "createdAt": "2026-03-22T10:40:00+09:00"
+      },
+      {
+        "chapter": 399,
+        "title": "第399章：静寂の波紋",
+        "file": "2026-03-22-chapter-399.html",
+        "createdAt": "2026-03-22T10:25:00+09:00"
+      },
+      {
+        "chapter": 398,
+        "title": "第398章：最後の種",
+        "file": "2026-03-22-chapter-398.html",
+        "createdAt": "2026-03-22T10:15:00+09:00"
+      },
+      {
+        "chapter": 392,
+        "title": "第392章：古の記録",
+        "file": "2026-03-22-chapter-392.html",
+        "createdAt": "2026-03-22T09:10:00+09:00"
+      },
+      {
+        "chapter": 393,
+        "title": "第393章：未踏の最深部",
+        "file": "2026-03-22-chapter-393.html",
+        "createdAt": "2026-03-22T09:20:00+09:00"
+      },
+      {
+        "chapter": 394,
+        "title": "第394章：賢者たちの結集",
+        "file": "2026-03-22-chapter-394.html",
+        "createdAt": "2026-03-22T09:30:00+09:00"
+      },
+      {
+        "chapter": 395,
+        "title": "第395章：境界修復への道",
+        "file": "2026-03-22-chapter-395.html",
+        "createdAt": "2026-03-22T09:40:00+09:00"
+      },
+      {
+        "chapter": 396,
+        "title": "第396章：虚無の残響",
+        "file": "2026-03-22-chapter-396.html",
+        "createdAt": "2026-03-22T09:52:00+09:00"
+      },
+      {
+        "chapter": 397,
+        "title": "第397章：種を追って",
+        "file": "2026-03-22-chapter-397.html",
+        "createdAt": "2026-03-22T10:02:00+09:00"
+      },
+      {
+        "chapter": 423,
+        "title": "第423章：夜空の下で",
+        "file": "2026-03-22-chapter-423.html",
+        "createdAt": "2026-03-22T14:41:30+09:00"
+      }
+    ],
     "intervalMinutes": 10,
     "cronJobId": "971f8e88-cf27-4df5-a2c8-d0885a923c69",
     "note": "HTML形式。cron jobで10分おき自動投稿。timeout=3600秒。"
