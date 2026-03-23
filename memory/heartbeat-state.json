@@ -6,9 +6,9 @@
       "collectedAt": "2026-03-23T07:21:00+09:00"
     },
     "noon": {
-      "lastRun": "2026-03-22",
+      "lastRun": "2026-03-23",
       "status": "success",
-      "collectedAt": "2026-03-22T14:08:00+09:00"
+      "collectedAt": "2026-03-23T11:57:00+09:00"
     },
     "evening": {
       "lastRun": "2026-03-22",
@@ -91,16 +91,89 @@
         "フィンブルヴェト（氷の災厄・封印された古代の怪物）",
         "グラシエル（十三使徒・第九席）",
         "ルシフェイン（十三使徒・第七席）",
-        "シオン（記憶喪失の銀髪少女・七属性魔法回路持ち）"
+        "シオン（記憶喪失の銀髪少女・七属性魔法回路持ち）",
+        "アルケミア（第一の調律者・シオンの母）"
       ],
       "startedAt": "2026-03-19"
     },
-    "lastChapter": 543,
-    "lastTitle": "第543章：静寂の予兆",
-    "lastPostedAt": "2026-03-23T11:28:00+09:00",
-    "lastUrl": "",
+    "lastChapter": 558,
+    "lastTitle": "第558章：風の呼び声",
+    "lastPostedAt": "2026-03-23T13:42:00+09:00",
+    "lastUrl": "https://blog.hatena.ne.jp/Protoduct3/protoduct.hatenablog.com/atom/entry/17179246901368253459",
     "totalChapters": 100,
     "pendingPosts": [
+      {
+        "chapter": 558,
+        "title": "第558章：風の呼び声",
+        "file": "2026-03-23-chapter-558.html",
+        "createdAt": "2026-03-23T13:50:00+09:00"
+      },
+      {
+        "chapter": 556,
+        "title": "第556章：湖畔の異変",
+        "file": "2026-03-23-chapter-556.html",
+        "createdAt": "2026-03-23T13:30:00+09:00"
+      },
+      {
+        "chapter": 555,
+        "title": "第555章：最初の調律者",
+        "file": "2026-03-23-chapter-555.html",
+        "createdAt": "2026-03-23T13:20:00+09:00"
+      },
+      {
+        "chapter": 553,
+        "title": "第553章：闇の賢者",
+        "file": "2026-03-23-chapter-553.html",
+        "createdAt": "2026-03-23T13:04:00+09:00"
+      },
+      {
+        "chapter": 552,
+        "title": "第552章：光の試練",
+        "file": "2026-03-23-chapter-552.html",
+        "createdAt": "2026-03-23T13:00:00+09:00"
+      },
+      {
+        "chapter": 551,
+        "title": "第551章：雷の試練",
+        "file": "2026-03-23-chapter-551.html",
+        "createdAt": "2026-03-23T12:43:00+09:00"
+      },
+      {
+        "chapter": 550,
+        "title": "第550章：地の試練",
+        "file": "2026-03-23-chapter-550.html",
+        "createdAt": "2026-03-23T12:31:00+09:00"
+      },
+      {
+        "chapter": 549,
+        "title": "第549章：風の試練",
+        "file": "2026-03-23-chapter-549.html",
+        "createdAt": "2026-03-23T12:30:00+09:00"
+      },
+      {
+        "chapter": 548,
+        "title": "第548章：炎の試練",
+        "file": "2026-03-23-chapter-548.html",
+        "createdAt": "2026-03-23T12:20:00+09:00"
+      },
+      {
+        "chapter": 547,
+        "title": "第547章：記憶の鍵",
+        "file": "2026-03-23-chapter-547.html",
+        "createdAt": "2026-03-23T12:10:00+09:00"
+      },
+      {
+        "chapter": 546,
+        "title": "第546章：封じられた記憶",
+        "file": "2026-03-23-chapter-546.html",
+        "createdAt": "2026-03-23T12:00:00+09:00"
+      },
+      {
+        "chapter": 544,
+        "title": "第544章：沈黙の塔の入口",
+        "file": "2026-03-23-chapter-544.html",
+        "createdAt": "2026-03-23T11:48:00+09:00"
+      },
       {
         "chapter": 543,
         "title": "第543章：静寂の予兆",
