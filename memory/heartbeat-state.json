@@ -1,8 +1,9 @@
 {
   "investNewsSummary": {
     "morning": {
-      "lastRun": null,
-      "status": null
+      "lastRun": "2026-03-23",
+      "status": "success",
+      "collectedAt": "2026-03-23T07:21:00+09:00"
     },
     "noon": {
       "lastRun": "2026-03-22",
@@ -10,13 +11,14 @@
       "collectedAt": "2026-03-22T14:08:00+09:00"
     },
     "evening": {
-      "lastRun": null,
-      "status": null
+      "lastRun": "2026-03-22",
+      "status": "success",
+      "collectedAt": "2026-03-22T18:20:00+09:00"
     }
   },
   "leadLagResult": {
-    "lastCheck": "2026-03-22",
-    "lastResult": "weekend_no_data"
+    "lastCheck": "2026-03-23",
+    "lastResult": "results_not_yet_available"
   },
   "opennews": {
     "morning": {
@@ -26,7 +28,7 @@
       "error": "OpenAI API key not valid (placeholder value)"
     },
     "evening": {
-      "lastRun": "2026-03-21",
+      "lastRun": "2026-03-22",
       "status": "failed",
       "articlesCount": 0,
       "error": "OpenAI API key not valid (placeholder value)"
@@ -66,16 +68,693 @@
         "アーク（空虚の守護者）",
         "アンブローズ・ヴェイル（境界の研究者）",
         "ミオ（湖の守護者）",
-        "サラ（深淵の魔女）"
+        "サラ（深淵の魔女）",
+        "レオン（火魔法・新入冒険者）",
+        "フィオナ（風魔法・エルフの血）",
+        "ミラ（水魔法・新入冒険者）",
+        "レナ（フェンリル族の山案内人）",
+        "フェン（レナの相棒の狼）",
+        "ガンツ（氷見の村の自警団長）",
+        "オド（氷見の村の村長）",
+        "アレクシス・ヴェイル（最初の管理者）",
+        "イヴェルナ（氷の賢者・最初の管理者の一人）",
+        "ルミナス（光の賢者）",
+        "テラドン（地の賢者）",
+        "エドガー・ナイトシェード（深淵の書庫の管理官）",
+        "セレスティア（深淵の書庫の司書）",
+        "アンブロス（闇の賢者）",
+        "ミーナ（リンド大陸の少女）",
+        "ミズリア（水の賢者・ミーナの母）",
+        "ウィンディア（風の精霊）",
+        "エドワード（元ヴォイド・テンプラー・街の守護者）",
+        "セレナ・クロフォード（中央ギルド調査官）",
+        "フィンブルヴェト（氷の災厄・封印された古代の怪物）",
+        "グラシエル（十三使徒・第九席）",
+        "ルシフェイン（十三使徒・第七席）",
+        "シオン（記憶喪失の銀髪少女・七属性魔法回路持ち）"
       ],
       "startedAt": "2026-03-19"
     },
-    "lastChapter": 425,
-    "lastTitle": "第425章：新しい朝",
-    "lastPostedAt": "2026-03-22T12:50:00+09:00",
+    "lastChapter": 543,
+    "lastTitle": "第543章：静寂の予兆",
+    "lastPostedAt": "2026-03-23T11:28:00+09:00",
     "lastUrl": "",
-    "totalChapters": 95,
+    "totalChapters": 100,
     "pendingPosts": [
+      {
+        "chapter": 543,
+        "title": "第543章：静寂の予兆",
+        "file": "2026-03-23-chapter-543.html",
+        "createdAt": "2026-03-23T11:28:00+09:00"
+      },
+      {
+        "chapter": 542,
+        "title": "第542章：深海の眠り姫",
+        "file": "2026-03-23-chapter-542.html",
+        "createdAt": "2026-03-23T11:18:00+09:00"
+      },
+      {
+        "chapter": 541,
+        "title": "第541章：波間の予兆",
+        "file": "2026-03-23-chapter-541.html",
+        "createdAt": "2026-03-23T11:10:00+09:00"
+      },
+      {
+        "chapter": 540,
+        "title": "第540章：東への船旅",
+        "file": "2026-03-23-chapter-540.html",
+        "createdAt": "2026-03-23T11:00:00+09:00"
+      },
+      {
+        "chapter": 537,
+        "title": "第537章：風の聖域への道",
+        "file": "2026-03-23-chapter-537.html",
+        "createdAt": "2026-03-23T10:45:00+09:00"
+      },
+      {
+        "chapter": 536,
+        "title": "第536章：風の呼び声",
+        "file": "2026-03-23-chapter-536.html",
+        "createdAt": "2026-03-23T10:25:00+09:00"
+      },
+      {
+        "chapter": 533,
+        "title": "第533章：青き航路",
+        "file": "2026-03-23-chapter-533.html",
+        "createdAt": "2026-03-23T09:55:00+09:00"
+      },
+      {
+        "chapter": 532,
+        "title": "第532章：灼熱の決戦",
+        "file": "2026-03-23-chapter-532.html",
+        "createdAt": "2026-03-23T09:45:00+09:00"
+      },
+      {
+        "chapter": 531,
+        "title": "第531章：灼熱の危機",
+        "file": "2026-03-23-chapter-531.html",
+        "createdAt": "2026-03-23T09:32:00+09:00"
+      },
+      {
+        "chapter": 530,
+        "title": "第530章：境界の深淵",
+        "file": "2026-03-23-chapter-530.html",
+        "createdAt": "2026-03-23T09:22:00+09:00"
+      },
+      {
+        "chapter": 529,
+        "title": "第529章：東の航路",
+        "file": "2026-03-23-chapter-529.html",
+        "createdAt": "2026-03-23T09:20:00+09:00"
+      },
+      {
+        "chapter": 528,
+        "title": "第528章：南の海へ",
+        "file": "2026-03-23-chapter-528.html",
+        "createdAt": "2026-03-23T09:12:00+09:00"
+      },
+      {
+        "chapter": 527,
+        "title": "第527章：地の深淵",
+        "file": "2026-03-23-chapter-527.html",
+        "createdAt": "2026-03-23T09:00:00+09:00"
+      },
+      {
+        "chapter": 526,
+        "title": "第526章：七つの心臓",
+        "file": "2026-03-23-chapter-526.html",
+        "createdAt": "2026-03-23T08:52:00+09:00"
+      },
+      {
+        "chapter": 525,
+        "title": "第525章：氷の残響",
+        "file": "2026-03-23-chapter-525.html",
+        "createdAt": "2026-03-23T08:52:00+09:00"
+      },
+      {
+        "chapter": 524,
+        "title": "第524章：封印の守護者",
+        "file": "2026-03-23-chapter-524.html",
+        "createdAt": "2026-03-23T08:42:00+09:00"
+      },
+      {
+        "chapter": 523,
+        "title": "第523章：新たな予兆",
+        "file": "2026-03-23-chapter-523.html",
+        "createdAt": "2026-03-23T08:32:00+09:00"
+      },
+      {
+        "chapter": 522,
+        "title": "第522章：図書館の記録",
+        "file": "2026-03-23-chapter-522.html",
+        "createdAt": "2026-03-23T08:12:00+09:00"
+      },
+      {
+        "chapter": 521,
+        "title": "第521章：支部長の警告",
+        "file": "2026-03-23-chapter-521.html",
+        "createdAt": "2026-03-23T07:52:00+09:00"
+      },
+      {
+        "chapter": 520,
+        "title": "第520章：東への旅立ち",
+        "file": "2026-03-23-chapter-520.html",
+        "createdAt": "2026-03-23T07:50:00+09:00"
+      },
+      {
+        "chapter": 519,
+        "title": "第519章：闇の制御",
+        "file": "2026-03-23-chapter-519.html",
+        "createdAt": "2026-03-23T07:36:00+09:00"
+      },
+      {
+        "chapter": 518,
+        "title": "第518章：報告の夜",
+        "file": "2026-03-23-chapter-518.html",
+        "createdAt": "2026-03-23T07:26:00+09:00"
+      },
+      {
+        "chapter": 517,
+        "title": "第517章：原初の闇",
+        "file": "2026-03-23-chapter-517.html",
+        "createdAt": "2026-03-23T07:16:00+09:00"
+      },
+      {
+        "chapter": 516,
+        "title": "第516章：風の導き",
+        "file": "2026-03-23-chapter-516.html",
+        "createdAt": "2026-03-23T07:06:00+09:00"
+      },
+      {
+        "chapter": 515,
+        "title": "第515章：管理者の朝議",
+        "file": "2026-03-23-chapter-515.html",
+        "createdAt": "2026-03-23T06:56:00+09:00"
+      },
+      {
+        "chapter": 514,
+        "title": "第514章：朝の支度",
+        "file": "2026-03-23-chapter-514.html",
+        "createdAt": "2026-03-23T06:46:00+09:00"
+      },
+      {
+        "chapter": 513,
+        "title": "第513章：夜の語らい",
+        "file": "2026-03-23-chapter-513.html",
+        "createdAt": "2026-03-23T06:23:00+09:00"
+      },
+      {
+        "chapter": 512,
+        "title": "第512章：管理者の初日",
+        "file": "2026-03-23-chapter-512.html",
+        "createdAt": "2026-03-23T06:13:00+09:00"
+      },
+      {
+        "chapter": 511,
+        "title": "第511章：夕餉の卓",
+        "file": "2026-03-23-chapter-511.html",
+        "createdAt": "2026-03-23T06:03:00+09:00"
+      },
+      {
+        "chapter": 510,
+        "title": "第510章：報告の時",
+        "file": "2026-03-23-chapter-510.html",
+        "createdAt": "2026-03-23T05:53:00+09:00"
+      },
+      {
+        "chapter": 509,
+        "title": "第509章：懐かしい場所",
+        "file": "2026-03-23-chapter-509.html",
+        "createdAt": "2026-03-23T05:43:00+09:00"
+      },
+      {
+        "chapter": 508,
+        "title": "第508章：帰路の準備",
+        "file": "2026-03-23-chapter-508.html",
+        "createdAt": "2026-03-23T05:43:00+09:00"
+      },
+      {
+        "chapter": 507,
+        "title": "第507章：朝の光",
+        "file": "2026-03-23-chapter-507.html",
+        "createdAt": "2026-03-23T05:23:00+09:00"
+      },
+      {
+        "chapter": 506,
+        "title": "第506章：封印の再構築",
+        "file": "2026-03-23-chapter-506.html",
+        "createdAt": "2026-03-23T05:13:00+09:00"
+      },
+      {
+        "chapter": 505,
+        "title": "第505章：血脈の継承",
+        "file": "2026-03-23-chapter-505.html",
+        "createdAt": "2026-03-23T05:03:00+09:00"
+      },
+      {
+        "chapter": 504,
+        "title": "第504章：守護者の山",
+        "file": "2026-03-23-chapter-504.html",
+        "createdAt": "2026-03-23T04:53:00+09:00"
+      },
+      {
+        "chapter": 503,
+        "title": "第503章：旅立ちの朝",
+        "file": "2026-03-23-chapter-503.html",
+        "createdAt": "2026-03-23T04:43:00+09:00"
+      },
+      {
+        "chapter": 502,
+        "title": "第502章：準備の朝",
+        "file": "2026-03-23-chapter-502.html",
+        "createdAt": "2026-03-23T04:33:00+09:00"
+      },
+      {
+        "chapter": 500,
+        "title": "第500章：中央大陸への到達",
+        "file": "2026-03-23-chapter-500.html",
+        "createdAt": "2026-03-23T04:13:00+09:00"
+      },
+      {
+        "chapter": 499,
+        "title": "第499章：湖上の黒き影",
+        "file": "2026-03-23-chapter-499.html",
+        "createdAt": "2026-03-23T04:03:00+09:00"
+      },
+      {
+        "chapter": 498,
+        "title": "第498章：湖上の休息",
+        "file": "2026-03-23-chapter-498.html",
+        "createdAt": "2026-03-23T03:53:00+09:00"
+      },
+      {
+        "chapter": 497,
+        "title": "第497章：テラドンの試練",
+        "file": "2026-03-23-chapter-497.html",
+        "createdAt": "2026-03-23T03:48:00+09:00"
+      },
+      {
+        "chapter": 496,
+        "title": "第496章：地下道の脅威",
+        "file": "2026-03-23-chapter-496.html",
+        "createdAt": "2026-03-23T03:28:00+09:00"
+      },
+      {
+        "chapter": 495,
+        "title": "第495章：大地の裂け目へ",
+        "file": "2026-03-23-chapter-495.html",
+        "createdAt": "2026-03-23T03:26:00+09:00"
+      },
+      {
+        "chapter": 494,
+        "title": "第494章：中央大陸への航路",
+        "file": "2026-03-23-chapter-494.html",
+        "createdAt": "2026-03-23T03:16:00+09:00"
+      },
+      {
+        "chapter": 493,
+        "title": "第493章：洞窟の戦い",
+        "file": "2026-03-23-chapter-493.html",
+        "createdAt": "2026-03-23T03:06:00+09:00"
+      },
+      {
+        "chapter": 492,
+        "title": "第492章：麓の村",
+        "file": "2026-03-23-chapter-492.html",
+        "createdAt": "2026-03-23T02:56:00+09:00"
+      },
+      {
+        "chapter": 491,
+        "title": "第491章：母娘の時",
+        "file": "2026-03-23-chapter-491.html",
+        "createdAt": "2026-03-23T02:46:00+09:00"
+      },
+      {
+        "chapter": 490,
+        "title": "第490章：原初の水の記憶",
+        "file": "2026-03-23-chapter-490.html",
+        "createdAt": "2026-03-23T02:30:00+09:00"
+      },
+      {
+        "chapter": 489,
+        "title": "第489章：水の聖域へ",
+        "file": "2026-03-23-chapter-489.html",
+        "createdAt": "2026-03-23T02:20:00+09:00"
+      },
+      {
+        "chapter": 488,
+        "title": "第488章：灼熱の再戦",
+        "file": "2026-03-23-chapter-488.html",
+        "createdAt": "2026-03-23T02:10:00+09:00"
+      },
+      {
+        "chapter": 487,
+        "title": "第487章：夜陰の戦い",
+        "file": "2026-03-23-chapter-487.html",
+        "createdAt": "2026-03-23T02:00:00+09:00"
+      },
+      {
+        "chapter": 486,
+        "title": "第486章：灼熱の砂漠",
+        "file": "2026-03-23-chapter-486.html",
+        "createdAt": "2026-03-23T01:50:00+09:00"
+      },
+      {
+        "chapter": 485,
+        "title": "第485章：森の案内人",
+        "file": "2026-03-23-chapter-485.html",
+        "createdAt": "2026-03-23T01:40:00+09:00"
+      },
+      {
+        "chapter": 484,
+        "title": "第484章：管理者の覚悟",
+        "file": "2026-03-23-chapter-484.html",
+        "createdAt": "2026-03-23T01:20:00+09:00"
+      },
+      {
+        "chapter": 483,
+        "title": "第483章：嵐の海",
+        "file": "2026-03-23-chapter-483.html",
+        "createdAt": "2026-03-23T01:10:00+09:00"
+      },
+      {
+        "chapter": 482,
+        "title": "第482章：予兆のささやき",
+        "file": "2026-03-23-chapter-482.html",
+        "createdAt": "2026-03-23T00:57:00+09:00"
+      },
+      {
+        "chapter": 481,
+        "title": "第481章：再構築の朝",
+        "file": "2026-03-23-chapter-481.html",
+        "createdAt": "2026-03-23T00:47:00+09:00"
+      },
+      {
+        "chapter": 480,
+        "title": "第480章：世界の再構築",
+        "file": "2026-03-23-chapter-480.html",
+        "createdAt": "2026-03-23T00:40:00+09:00"
+      },
+      {
+        "chapter": 479,
+        "title": "第479章：原初の座",
+        "file": "2026-03-23-chapter-479.html",
+        "createdAt": "2026-03-23T00:30:00+09:00"
+      },
+      {
+        "chapter": 477,
+        "title": "第477章：鋼鉄の守護者",
+        "file": "2026-03-23-chapter-477.html",
+        "createdAt": "2026-03-23T00:10:00+09:00"
+      },
+      {
+        "chapter": 476,
+        "title": "第476章：内なる裏切り者",
+        "file": "2026-03-22-chapter-476.html",
+        "createdAt": "2026-03-22T23:54:00+09:00"
+      },
+      {
+        "chapter": 475,
+        "title": "第475章：霧中の追跡者",
+        "file": "2026-03-23-chapter-475.html",
+        "createdAt": "2026-03-22T23:44:00+09:00"
+      },
+      {
+        "chapter": 474,
+        "title": "第474章：霧の深淵への道",
+        "file": "2026-03-23-chapter-474.html",
+        "createdAt": "2026-03-22T23:34:00+09:00"
+      },
+      {
+        "chapter": 473,
+        "title": "第473章：大地の慟哭",
+        "file": "2026-03-23-chapter-473.html",
+        "createdAt": "2026-03-22T23:24:00+09:00"
+      },
+      {
+        "chapter": 472,
+        "title": "第472章：地への道標",
+        "file": "2026-03-22-chapter-472.html",
+        "createdAt": "2026-03-22T23:20:00+09:00"
+      },
+      {
+        "chapter": 471,
+        "title": "第471章：氷の試練",
+        "file": "2026-03-22-chapter-471.html",
+        "createdAt": "2026-03-22T23:10:00+09:00"
+      },
+      {
+        "chapter": 470,
+        "title": "第470章：氷原の静寂",
+        "file": "2026-03-22-chapter-470.html",
+        "createdAt": "2026-03-22T23:00:00+09:00"
+      },
+      {
+        "chapter": 469,
+        "title": "第469章：雷鳴の道",
+        "file": "2026-03-22-chapter-469.html",
+        "createdAt": "2026-03-22T22:50:00+09:00"
+      },
+      {
+        "chapter": 468,
+        "title": "第468章：氷見の村",
+        "file": "2026-03-22-chapter-468.html",
+        "createdAt": "2026-03-22T22:31:00+09:00"
+      },
+      {
+        "chapter": 467,
+        "title": "第467章：氷と雷の分岐点",
+        "file": "2026-03-22-chapter-467.html",
+        "createdAt": "2026-03-22T22:21:00+09:00"
+      },
+      {
+        "chapter": 466,
+        "title": "第466章：灼熱の試練",
+        "file": "2026-03-22-chapter-466.html",
+        "createdAt": "2026-03-22T22:19:00+09:00"
+      },
+      {
+        "chapter": 465,
+        "title": "第465章：七つの道標",
+        "file": "2026-03-22-chapter-465.html",
+        "createdAt": "2026-03-22T22:09:00+09:00"
+      },
+      {
+        "chapter": 464,
+        "title": "第464章：光の賢者の真実",
+        "file": "2026-03-22-chapter-464.html",
+        "createdAt": "2026-03-22T21:59:00+09:00"
+      },
+      {
+        "chapter": 463,
+        "title": "第463章：光の塔への道",
+        "file": "2026-03-22-chapter-463.html",
+        "createdAt": "2026-03-22T21:39:00+09:00"
+      },
+      {
+        "chapter": 462,
+        "title": "第462章：大地の心臓",
+        "file": "2026-03-22-chapter-462.html",
+        "createdAt": "2026-03-22T21:24:00+09:00"
+      },
+      {
+        "chapter": 461,
+        "title": "第461章：地の領域へ",
+        "file": "2026-03-22-chapter-461.html",
+        "createdAt": "2026-03-22T21:14:00+09:00"
+      },
+      {
+        "chapter": 460,
+        "title": "第460章：雷鳴の試練",
+        "file": "2026-03-22-chapter-460.html",
+        "createdAt": "2026-03-22T21:04:00+09:00"
+      },
+      {
+        "chapter": 459,
+        "title": "第459章：雷の領域",
+        "file": "2026-03-22-chapter-459.html",
+        "createdAt": "2026-03-22T21:00:00+09:00"
+      },
+      {
+        "chapter": 458,
+        "title": "第458章：雷鳴の予感",
+        "file": "2026-03-22-chapter-458.html",
+        "createdAt": "2026-03-22T20:44:00+09:00"
+      },
+      {
+        "chapter": 457,
+        "title": "第457章：氷の賢者との戦い",
+        "file": "2026-03-22-chapter-457.html",
+        "createdAt": "2026-03-22T20:40:00+09:00"
+      },
+      {
+        "chapter": 456,
+        "title": "第456章：北への道",
+        "file": "2026-03-22-chapter-456.html",
+        "createdAt": "2026-03-22T20:30:00+09:00"
+      },
+      {
+        "chapter": 455,
+        "title": "第455章：禁忌の森",
+        "file": "2026-03-22-chapter-455.html",
+        "createdAt": "2026-03-22T20:14:00+09:00"
+      },
+      {
+        "chapter": 454,
+        "title": "第454章：帰還の夜",
+        "file": "2026-03-22-chapter-454.html",
+        "createdAt": "2026-03-22T20:14:00+09:00"
+      },
+      {
+        "chapter": 453,
+        "title": "第453章：風の鈴",
+        "file": "2026-03-22-chapter-453.html",
+        "createdAt": "2026-03-22T19:54:00+09:00"
+      },
+      {
+        "chapter": 450,
+        "title": "第450章：光と闇の融合",
+        "file": "2026-03-22-chapter-450.html",
+        "createdAt": "2026-03-22T19:20:00+09:00"
+      },
+      {
+        "chapter": 449,
+        "title": "第449章：深淵の書庫",
+        "file": "2026-03-22-chapter-449.html",
+        "createdAt": "2026-03-22T19:07:00+09:00"
+      },
+      {
+        "chapter": 448,
+        "title": "第448章：闇への招待状",
+        "file": "2026-03-22-chapter-448.html",
+        "createdAt": "2026-03-22T19:00:00+09:00"
+      },
+      {
+        "chapter": 447,
+        "title": "第447章：光への道",
+        "file": "2026-03-22-chapter-447.html",
+        "createdAt": "2026-03-22T18:47:00+09:00"
+      },
+      {
+        "chapter": 446,
+        "title": "第446章：北の山脈",
+        "file": "2026-03-22-chapter-446.html",
+        "createdAt": "2026-03-22T18:37:00+09:00"
+      },
+      {
+        "chapter": 445,
+        "title": "第445章：風の行方",
+        "file": "2026-03-22-chapter-445.html",
+        "createdAt": "2026-03-22T18:27:00+09:00"
+      },
+      {
+        "chapter": 444,
+        "title": "第444章：炎の契約",
+        "file": "2026-03-22-chapter-444.html",
+        "createdAt": "2026-03-22T18:17:00+09:00"
+      },
+      {
+        "chapter": 443,
+        "title": "第443章：炎の聖域",
+        "file": "2026-03-22-chapter-443.html",
+        "createdAt": "2026-03-22T18:03:00+09:00"
+      },
+      {
+        "chapter": 442,
+        "title": "第442章：灼熱の砂漠",
+        "file": "2026-03-22-chapter-442.html",
+        "createdAt": "2026-03-22T17:55:00+09:00"
+      },
+      {
+        "chapter": 441,
+        "title": "第441章：賢者の告白",
+        "file": "2026-03-22-chapter-441.html",
+        "createdAt": "2026-03-22T17:43:00+09:00"
+      },
+      {
+        "chapter": 440,
+        "title": "第440章：氷の宮殿",
+        "file": "2026-03-22-chapter-440.html",
+        "createdAt": "2026-03-22T17:33:00+09:00"
+      },
+      {
+        "chapter": 439,
+        "title": "第439章：氷の底へ",
+        "file": "2026-03-22-chapter-439.html",
+        "createdAt": "2026-03-22T17:23:00+09:00"
+      },
+      {
+        "chapter": 438,
+        "title": "第438章：氷の呼び声",
+        "file": "2026-03-22-chapter-438.html",
+        "createdAt": "2026-03-22T17:13:00+09:00"
+      },
+      {
+        "chapter": 437,
+        "title": "第437章：七つの光点",
+        "file": "2026-03-22-chapter-437.html",
+        "createdAt": "2026-03-22T17:01:00+09:00"
+      },
+      {
+        "chapter": 436,
+        "title": "第436章：種の目覚め",
+        "file": "2026-03-22-chapter-436.html",
+        "createdAt": "2026-03-22T16:51:00+09:00"
+      },
+      {
+        "chapter": 435,
+        "title": "第435章：謎の種",
+        "file": "2026-03-22-chapter-435.html",
+        "createdAt": "2026-03-22T16:41:00+09:00"
+      },
+      {
+        "chapter": 434,
+        "title": "第434章：朝霧の中で",
+        "file": "2026-03-22-chapter-434.html",
+        "createdAt": "2026-03-22T16:31:00+09:00"
+      },
+      {
+        "chapter": 433,
+        "title": "第433章：西の森へ",
+        "file": "2026-03-22-chapter-433.html",
+        "createdAt": "2026-03-22T16:21:00+09:00"
+      },
+      {
+        "chapter": 432,
+        "title": "第432章：新たな門出",
+        "file": "2026-03-22-chapter-432.html",
+        "createdAt": "2026-03-22T16:11:00+09:00"
+      },
+      {
+        "chapter": 431,
+        "title": "第431章：氷の迷路",
+        "file": "2026-03-22-chapter-431.html",
+        "createdAt": "2026-03-22T16:00:00+09:00"
+      },
+      {
+        "chapter": 430,
+        "title": "第430章：三色の交差点",
+        "file": "2026-03-22-chapter-430.html",
+        "createdAt": "2026-03-22T15:48:00+09:00"
+      },
+      {
+        "chapter": 429,
+        "title": "第429章：風の迷い",
+        "file": "2026-03-22-chapter-429.html",
+        "createdAt": "2026-03-22T15:38:00+09:00"
+      },
+      {
+        "chapter": 428,
+        "title": "第428章：壁の向こう側",
+        "file": "2026-03-22-chapter-428.html",
+        "createdAt": "2026-03-22T15:28:00+09:00"
+      },
+      {
+        "chapter": 427,
+        "title": "第427章：研修初日",
+        "file": "2026-03-22-chapter-427.html",
+        "createdAt": "2026-03-22T15:18:00+09:00"
+      },
       {
         "chapter": 425,
         "title": "第425章：新しい朝",
@@ -179,28 +858,10 @@
         "createdAt": "2026-03-22T10:15:00+09:00"
       },
       {
-        "chapter": 392,
-        "title": "第392章：古の記録",
-        "file": "2026-03-22-chapter-392.html",
-        "createdAt": "2026-03-22T09:10:00+09:00"
-      },
-      {
-        "chapter": 393,
-        "title": "第393章：未踏の最深部",
-        "file": "2026-03-22-chapter-393.html",
-        "createdAt": "2026-03-22T09:20:00+09:00"
-      },
-      {
-        "chapter": 394,
-        "title": "第394章：賢者たちの結集",
-        "file": "2026-03-22-chapter-394.html",
-        "createdAt": "2026-03-22T09:30:00+09:00"
-      },
-      {
-        "chapter": 395,
-        "title": "第395章：境界修復への道",
-        "file": "2026-03-22-chapter-395.html",
-        "createdAt": "2026-03-22T09:40:00+09:00"
+        "chapter": 397,
+        "title": "第397章：種を追って",
+        "file": "2026-03-22-chapter-397.html",
+        "createdAt": "2026-03-22T10:02:00+09:00"
       },
       {
         "chapter": 396,
@@ -209,16 +870,28 @@
         "createdAt": "2026-03-22T09:52:00+09:00"
       },
       {
-        "chapter": 397,
-        "title": "第397章：種を追って",
-        "file": "2026-03-22-chapter-397.html",
-        "createdAt": "2026-03-22T10:02:00+09:00"
+        "chapter": 395,
+        "title": "第395章：境界修復への道",
+        "file": "2026-03-22-chapter-395.html",
+        "createdAt": "2026-03-22T09:40:00+09:00"
       },
       {
-        "chapter": 423,
-        "title": "第423章：夜空の下で",
-        "file": "2026-03-22-chapter-423.html",
-        "createdAt": "2026-03-22T14:41:30+09:00"
+        "chapter": 394,
+        "title": "第394章：賢者たちの結集",
+        "file": "2026-03-22-chapter-394.html",
+        "createdAt": "2026-03-22T09:30:00+09:00"
+      },
+      {
+        "chapter": 393,
+        "title": "第393章：未踏の最深部",
+        "file": "2026-03-22-chapter-393.html",
+        "createdAt": "2026-03-22T09:20:00+09:00"
+      },
+      {
+        "chapter": 392,
+        "title": "第392章：古の記録",
+        "file": "2026-03-22-chapter-392.html",
+        "createdAt": "2026-03-22T09:10:00+09:00"
       }
     ],
     "intervalMinutes": 10,
