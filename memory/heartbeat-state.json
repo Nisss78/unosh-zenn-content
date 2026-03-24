@@ -1,24 +1,24 @@
 {
   "investNewsSummary": {
     "morning": {
-      "lastRun": "2026-03-23",
+      "lastRun": "2026-03-24",
       "status": "success",
       "collectedAt": "2026-03-23T07:21:00+09:00"
     },
     "noon": {
-      "lastRun": "2026-03-23",
+      "lastRun": "2026-03-24",
       "status": "success",
-      "collectedAt": "2026-03-23T11:57:00+09:00"
+      "collectedAt": "2026-03-24T11:38:00+09:00"
     },
     "evening": {
-      "lastRun": "2026-03-22",
+      "lastRun": "2026-03-23",
       "status": "success",
-      "collectedAt": "2026-03-22T18:20:00+09:00"
+      "collectedAt": "2026-03-23T18:32:00+09:00"
     }
   },
   "leadLagResult": {
-    "lastCheck": "2026-03-23",
-    "lastResult": "results_not_yet_available"
+    "lastCheck": "2026-03-24",
+    "lastResult": "data_updated_results_not_yet_available"
   },
   "opennews": {
     "morning": {
@@ -28,10 +28,10 @@
       "error": "OpenAI API key not valid (placeholder value)"
     },
     "evening": {
-      "lastRun": "2026-03-22",
-      "status": "failed",
-      "articlesCount": 0,
-      "error": "OpenAI API key not valid (placeholder value)"
+      "lastRun": "2026-03-23",
+      "status": "success",
+      "articlesCount": 1200,
+      "error": null
     }
   },
   "improvisedNovel": {
@@ -92,16 +92,731 @@
         "グラシエル（十三使徒・第九席）",
         "ルシフェイン（十三使徒・第七席）",
         "シオン（記憶喪失の銀髪少女・七属性魔法回路持ち）",
-        "アルケミア（第一の調律者・シオンの母）"
+        "アルケミア（第一の調律者・シオンの母）",
+        "ヴォイドフィンサー（十三使徒・第十一席・水）",
+        "デストラクション（十三使徒・第五席・炎）",
+        "アビス（十三使徒・第十席・闇）",
+        "テンペスト（十三使徒・第八席・風）",
+        "ダークハルト（最高位管理者・闇と虚無の融合）",
+        "ミラージュ（最高位管理者・鏡像と虚無の融合）",
+        "アルタイル（最高位管理者・予言と虚無の融合）"
       ],
       "startedAt": "2026-03-19"
     },
-    "lastChapter": 558,
-    "lastTitle": "第558章：風の呼び声",
-    "lastPostedAt": "2026-03-23T13:42:00+09:00",
-    "lastUrl": "https://blog.hatena.ne.jp/Protoduct3/protoduct.hatenablog.com/atom/entry/17179246901368253459",
+    "lastChapter": 700,
+    "lastTitle": "第700章：深淵の管理者",
+    "lastPostedAt": "2026-03-24T15:07:00+09:00",
+    "lastUrl": null,
     "totalChapters": 100,
     "pendingPosts": [
+      {
+        "chapter": 700,
+        "title": "第700章：深淵の管理者",
+        "file": "2026-03-24-chapter-700.html",
+        "createdAt": "2026-03-24T15:07:00+09:00"
+      },
+      {
+        "chapter": 699,
+        "title": "第699章：闇の深淵",
+        "file": "2026-03-24-chapter-699.html",
+        "createdAt": "2026-03-24T14:37:00+09:00"
+      },
+      {
+        "chapter": 698,
+        "title": "第698章：影の回廊",
+        "file": "2026-03-24-chapter-698.html",
+        "createdAt": "2026-03-24T14:27:00+09:00"
+      },
+      {
+        "chapter": 697,
+        "title": "第697章：虚空の城への扉",
+        "file": "2026-03-24-chapter-697.html",
+        "createdAt": "2026-03-24T14:17:00+09:00"
+      },
+      {
+        "chapter": 696,
+        "title": "第696章：ヘヴンズ島への船旅",
+        "file": "2026-03-24-chapter-696.html",
+        "createdAt": "2026-03-24T14:07:00+09:00"
+      },
+      {
+        "chapter": 695,
+        "title": "第695章：虚空の城の秘密",
+        "file": "2026-03-24-chapter-695.html",
+        "createdAt": "2026-03-24T13:54:00+09:00"
+      },
+      {
+        "chapter": 694,
+        "title": "第694章：ルミナの街",
+        "file": "2026-03-24-chapter-694.html",
+        "createdAt": "2026-03-24T13:44:00+09:00"
+      },
+      {
+        "chapter": 693,
+        "title": "第693章：虚空の城への道標",
+        "file": "2026-03-24-chapter-693.html",
+        "createdAt": "2026-03-24T13:34:00+09:00"
+      },
+      {
+        "chapter": 692,
+        "title": "第692章：光の塔の第七層",
+        "file": "2026-03-24-chapter-692.html",
+        "createdAt": "2026-03-24T13:24:00+09:00"
+      },
+      {
+        "chapter": 691,
+        "title": "第691章：光の塔の第六層",
+        "file": "2026-03-24-chapter-691.html",
+        "createdAt": "2026-03-24T13:14:00+09:00"
+      },
+      {
+        "chapter": 690,
+        "title": "第690章：光の塔の第五層",
+        "file": "2026-03-24-chapter-690.html",
+        "createdAt": "2026-03-24T13:10:00+09:00"
+      },
+      {
+        "chapter": 689,
+        "title": "第689章：光の塔の第四層",
+        "file": "2026-03-24-chapter-689.html",
+        "createdAt": "2026-03-24T12:51:00+09:00"
+      },
+      {
+        "chapter": 688,
+        "title": "第688章：光の塔の第三層",
+        "file": "2026-03-24-chapter-688.html",
+        "createdAt": "2026-03-24T12:41:00+09:00"
+      },
+      {
+        "chapter": 687,
+        "title": "第687章：光の塔の第二層",
+        "file": "2026-03-24-chapter-687.html",
+        "createdAt": "2026-03-24T12:34:00+09:00"
+      },
+      {
+        "chapter": 686,
+        "title": "第686章：光の塔の第一層",
+        "file": "2026-03-24-chapter-686.html",
+        "createdAt": "2026-03-24T12:25:00+09:00"
+      },
+      {
+        "chapter": 685,
+        "title": "第685章：光の塔への扉",
+        "file": "2026-03-24-chapter-685.html",
+        "createdAt": "2026-03-24T12:15:00+09:00"
+      },
+      {
+        "chapter": 683,
+        "title": "第683章：氷の災厄覚醒",
+        "file": "2026-03-24-chapter-683.html",
+        "createdAt": "2026-03-24T11:49:00+09:00"
+      },
+      {
+        "chapter": 682,
+        "title": "第682章：霜の魔女グラシエル",
+        "file": "2026-03-24-chapter-682.html",
+        "createdAt": "2026-03-24T11:39:00+09:00"
+      },
+      {
+        "chapter": 681,
+        "title": "第681章：氷結の大地へ",
+        "file": "2026-03-24-chapter-681.html",
+        "createdAt": "2026-03-24T11:29:00+09:00"
+      },
+      {
+        "chapter": 680,
+        "title": "第680章：雷鳴の決戦",
+        "file": "2026-03-24-chapter-680.html",
+        "createdAt": "2026-03-24T11:19:00+09:00"
+      },
+      {
+        "chapter": 679,
+        "title": "第679章：嵐の海域を抜けて",
+        "file": "2026-03-24-chapter-679.html",
+        "createdAt": "2026-03-24T11:15:00+09:00"
+      },
+      {
+        "chapter": 678,
+        "title": "第678章：深淵の闇",
+        "file": "2026-03-24-chapter-678.html",
+        "createdAt": "2026-03-24T11:05:00+09:00"
+      },
+      {
+        "chapter": 677,
+        "title": "第677章：氷結の絶対王",
+        "file": "2026-03-24-chapter-677.html",
+        "createdAt": "2026-03-24T10:55:00+09:00"
+      },
+      {
+        "chapter": 676,
+        "title": "第676章：風の暴君",
+        "file": "2026-03-24-chapter-676.html",
+        "createdAt": "2026-03-24T10:45:00+09:00"
+      },
+      {
+        "chapter": 675,
+        "title": "第675章：霧の森",
+        "file": "2026-03-24-chapter-675.html",
+        "createdAt": "2026-03-24T10:35:00+09:00"
+      },
+      {
+        "chapter": 674,
+        "title": "第674章：地下の深淵",
+        "file": "2026-03-24-chapter-674.html",
+        "createdAt": "2026-03-24T10:15:00+09:00"
+      },
+      {
+        "chapter": 673,
+        "title": "第673章：西への道標",
+        "file": "2026-03-24-chapter-673.html",
+        "createdAt": "2026-03-24T10:05:00+09:00"
+      },
+      {
+        "chapter": 672,
+        "title": "第672章：灼熱の深淵",
+        "file": "2026-03-24-chapter-672.html",
+        "createdAt": "2026-03-24T09:55:00+09:00"
+      },
+      {
+        "chapter": 667,
+        "title": "第667章：洞窟の深淵",
+        "file": "2026-03-24-chapter-667.html",
+        "createdAt": "2026-03-24T09:02:00+09:00"
+      },
+      {
+        "chapter": 666,
+        "title": "第666章：原初への道標",
+        "file": "2026-03-24-chapter-666.html",
+        "createdAt": "2026-03-24T08:52:00+09:00"
+      },
+      {
+        "chapter": 665,
+        "title": "第665章：静かな夜明け",
+        "file": "2026-03-24-chapter-665.html",
+        "createdAt": "2026-03-24T08:50:00+09:00"
+      },
+      {
+        "chapter": 663,
+        "title": "第663章：虚無と原初の激突",
+        "file": "2026-03-24-chapter-663.html",
+        "createdAt": "2026-03-24T08:20:00+09:00"
+      },
+      {
+        "chapter": 661,
+        "title": "第661章：風水の共鳴",
+        "file": "2026-03-24-chapter-661.html",
+        "createdAt": "2026-03-24T08:10:00+09:00"
+      },
+      {
+        "chapter": 660,
+        "title": "第660章：炎の試練",
+        "file": "2026-03-24-chapter-660.html",
+        "createdAt": "2026-03-24T08:00:00+09:00"
+      },
+      {
+        "chapter": 659,
+        "title": "第659章：闇の共鳴",
+        "file": "2026-03-24-chapter-659.html",
+        "createdAt": "2026-03-24T07:36:00+09:00"
+      },
+      {
+        "chapter": 658,
+        "title": "第658章：虚無の深淵",
+        "file": "2026-03-24-chapter-658.html",
+        "createdAt": "2026-03-24T07:26:00+09:00"
+      },
+      {
+        "chapter": 656,
+        "title": "第656章：塔の入口",
+        "file": "2026-03-24-chapter-656.html",
+        "createdAt": "2026-03-24T07:10:00+09:00"
+      },
+      {
+        "chapter": 655,
+        "title": "第655章：虚無の最奥",
+        "file": "2026-03-24-chapter-655.html",
+        "createdAt": "2026-03-24T06:56:00+09:00"
+      },
+      {
+        "chapter": 654,
+        "title": "第654章：暁の進軍",
+        "file": "2026-03-24-chapter-654.html",
+        "createdAt": "2026-03-24T06:50:00+09:00"
+      },
+      {
+        "chapter": 653,
+        "title": "第653章：決戦への誓い",
+        "file": "2026-03-24-chapter-653.html",
+        "createdAt": "2026-03-24T06:33:00+09:00"
+      },
+      {
+        "chapter": 649,
+        "title": "第649章：潜入の前夜",
+        "file": "2026-03-24-chapter-649.html",
+        "createdAt": "2026-03-24T05:53:00+09:00"
+      },
+      {
+        "chapter": 648,
+        "title": "第648章：風の守護者",
+        "file": "2026-03-24-chapter-648.html",
+        "createdAt": "2026-03-24T05:43:00+09:00"
+      },
+      {
+        "chapter": 647,
+        "title": "第647章：風の峠",
+        "file": "2026-03-24-chapter-647.html",
+        "createdAt": "2026-03-24T05:30:00+09:00"
+      },
+      {
+        "chapter": 646,
+        "title": "第646章：古の記録庫",
+        "file": "2026-03-24-chapter-646.html",
+        "createdAt": "2026-03-24T05:20:00+09:00"
+      },
+      {
+        "chapter": 645,
+        "title": "第645章：夜明けの使者",
+        "file": "2026-03-24-chapter-645.html",
+        "createdAt": "2026-03-24T05:10:00+09:00"
+      },
+      {
+        "chapter": 644,
+        "title": "第644章：海上の予兆",
+        "file": "2026-03-24-chapter-644.html",
+        "createdAt": "2026-03-24T05:00:00+09:00"
+      },
+      {
+        "chapter": 643,
+        "title": "第643章：七つの灯り",
+        "file": "2026-03-24-chapter-643.html",
+        "createdAt": "2026-03-24T04:50:00+09:00"
+      },
+      {
+        "chapter": 642,
+        "title": "第642章：水の聖域",
+        "file": "2026-03-24-chapter-642.html",
+        "createdAt": "2026-03-24T04:40:00+09:00"
+      },
+      {
+        "chapter": 641,
+        "title": "第641章：深海への道",
+        "file": "2026-03-24-chapter-641.html",
+        "createdAt": "2026-03-24T04:38:00+09:00"
+      },
+      {
+        "chapter": 640,
+        "title": "第640章：風の高原",
+        "file": "2026-03-24-chapter-640.html",
+        "createdAt": "2026-03-24T04:28:00+09:00"
+      },
+      {
+        "chapter": 639,
+        "title": "第639章：地の鼓動",
+        "file": "2026-03-24-chapter-639.html",
+        "createdAt": "2026-03-24T04:18:00+09:00"
+      },
+      {
+        "chapter": 638,
+        "title": "第638章：闇の賢者アンブロス",
+        "file": "2026-03-24-chapter-638.html",
+        "createdAt": "2026-03-24T03:58:00+09:00"
+      },
+      {
+        "chapter": 637,
+        "title": "第637章：深淵への船旅",
+        "file": "2026-03-24-chapter-637.html",
+        "createdAt": "2026-03-24T03:58:00+09:00"
+      },
+      {
+        "chapter": 636,
+        "title": "第636章：雷の神殿",
+        "file": "2026-03-24-chapter-636.html",
+        "createdAt": "2026-03-24T03:48:00+09:00"
+      },
+      {
+        "chapter": 635,
+        "title": "第635章：雷鳴の峰への道",
+        "file": "2026-03-24-chapter-635.html",
+        "createdAt": "2026-03-24T03:38:00+09:00"
+      },
+      {
+        "chapter": 634,
+        "title": "第634章：北風の案内",
+        "file": "2026-03-24-chapter-634.html",
+        "createdAt": "2026-03-24T03:28:00+09:00"
+      },
+      {
+        "chapter": 633,
+        "title": "第633章：朝焼けの誓い",
+        "file": "2026-03-24-chapter-633.html",
+        "createdAt": "2026-03-24T03:08:00+09:00"
+      },
+      {
+        "chapter": 632,
+        "title": "第632章：炎の導き手",
+        "file": "2026-03-24-chapter-632.html",
+        "createdAt": "2026-03-24T02:56:00+09:00"
+      },
+      {
+        "chapter": 631,
+        "title": "第631章：灼熱の序曲",
+        "file": "2026-03-24-chapter-631.html",
+        "createdAt": "2026-03-24T02:46:00+09:00"
+      },
+      {
+        "chapter": 630,
+        "title": "第630章：海上の静寂",
+        "file": "2026-03-24-chapter-630.html",
+        "createdAt": "2026-03-24T02:36:00+09:00"
+      },
+      {
+        "chapter": 629,
+        "title": "第629章：報告と新たな指針",
+        "file": "2026-03-24-chapter-629.html",
+        "createdAt": "2026-03-24T02:26:00+09:00"
+      },
+      {
+        "chapter": 628,
+        "title": "第628章：氷の封印",
+        "file": "2026-03-24-chapter-628.html",
+        "createdAt": "2026-03-24T02:16:00+09:00"
+      },
+      {
+        "chapter": 627,
+        "title": "第627章：北への道",
+        "file": "2026-03-24-chapter-627.html",
+        "createdAt": "2026-03-24T02:03:00+09:00"
+      },
+      {
+        "chapter": 626,
+        "title": "第626章：管理者の誓い",
+        "file": "2026-03-24-chapter-626.html",
+        "createdAt": "2026-03-24T01:53:00+09:00"
+      },
+      {
+        "chapter": 625,
+        "title": "第625章：新たなる始まり",
+        "file": "2026-03-24-chapter-625.html",
+        "createdAt": "2026-03-24T01:43:00+09:00"
+      },
+      {
+        "chapter": 624,
+        "title": "第624章：深淵の目覚め",
+        "file": "2026-03-24-chapter-624.html",
+        "createdAt": "2026-03-24T01:33:00+09:00"
+      },
+      {
+        "chapter": 623,
+        "title": "第623章：激流の夜",
+        "file": "2026-03-24-chapter-623.html",
+        "createdAt": "2026-03-24T01:23:00+09:00"
+      },
+      {
+        "chapter": 622,
+        "title": "第622章：儀式の開幕",
+        "file": "2026-03-24-chapter-622.html",
+        "createdAt": "2026-03-24T01:10:00+09:00"
+      },
+      {
+        "chapter": 621,
+        "title": "第621章：信頼の証明",
+        "file": "2026-03-24-chapter-621.html",
+        "createdAt": "2026-03-24T01:00:00+09:00"
+      },
+      {
+        "chapter": 620,
+        "title": "第620章：氷の心臓",
+        "file": "2026-03-24-chapter-620.html",
+        "createdAt": "2026-03-24T00:48:00+09:00"
+      },
+      {
+        "chapter": 619,
+        "title": "第619章：深淵の呼び声",
+        "file": "2026-03-24-chapter-619.html",
+        "createdAt": "2026-03-24T00:38:00+09:00"
+      },
+      {
+        "chapter": 618,
+        "title": "第618章：闇の予兆",
+        "file": "2026-03-24-chapter-618.html",
+        "createdAt": "2026-03-24T00:28:00+09:00"
+      },
+      {
+        "chapter": 617,
+        "title": "第617章：光の拒絶",
+        "file": "2026-03-24-chapter-617.html",
+        "createdAt": "2026-03-24T00:15:00+09:00"
+      },
+      {
+        "chapter": 616,
+        "title": "第616章：風と水の狭間で",
+        "file": "2026-03-24-chapter-616.html",
+        "createdAt": "2026-03-24T00:05:00+09:00"
+      },
+      {
+        "chapter": 615,
+        "title": "第615章：原初の守護者",
+        "file": "2026-03-24-chapter-615.html",
+        "createdAt": "2026-03-23T23:55:00+09:00"
+      },
+      {
+        "chapter": 614,
+        "title": "第614章：原初の領域",
+        "file": "2026-03-23-chapter-614.html",
+        "createdAt": "2026-03-23T23:45:00+09:00"
+      },
+      {
+        "chapter": 613,
+        "title": "第613章：世界の境界線",
+        "file": "2026-03-20-chapter-613.html",
+        "createdAt": "2026-03-23T23:35:00+09:00"
+      },
+      {
+        "chapter": 612,
+        "title": "第612章：深淵の答え",
+        "file": "2026-03-23-chapter-612.html",
+        "createdAt": "2026-03-23T23:22:00+09:00"
+      },
+      {
+        "chapter": 611,
+        "title": "第611章：捕虜の告白",
+        "file": "2026-03-23-chapter-611.html",
+        "createdAt": "2026-03-23T23:12:00+09:00"
+      },
+      {
+        "chapter": 610,
+        "title": "第610章：三使徒の連撃",
+        "file": "2026-03-23-chapter-610.html",
+        "createdAt": "2026-03-23T23:02:00+09:00"
+      },
+      {
+        "chapter": 609,
+        "title": "第609章：七属性の戦士",
+        "file": "2026-03-23-chapter-609.html",
+        "createdAt": "2026-03-23T22:52:00+09:00"
+      },
+      {
+        "chapter": 608,
+        "title": "第608章：七賢者への警告",
+        "file": "2026-03-23-chapter-608.html",
+        "createdAt": "2026-03-23T22:42:00+09:00"
+      },
+      {
+        "chapter": 607,
+        "title": "第607章：捕虜の証言",
+        "file": "2026-03-23-chapter-607.html",
+        "createdAt": "2026-03-23T22:32:00+09:00"
+      },
+      {
+        "chapter": 606,
+        "title": "第606章：水炎の衝突",
+        "file": "2026-03-23-chapter-606.html",
+        "createdAt": "2026-03-23T22:22:00+09:00"
+      },
+      {
+        "chapter": 605,
+        "title": "第605章：風偵察",
+        "file": "2026-03-23-chapter-605.html",
+        "createdAt": "2026-03-23T22:10:00+09:00"
+      },
+      {
+        "chapter": 604,
+        "title": "第604章：七人の賢者",
+        "file": "2026-03-23-chapter-604.html",
+        "createdAt": "2026-03-23T21:59:00+09:00"
+      },
+      {
+        "chapter": 603,
+        "title": "第603章：風の真髄",
+        "file": "2026-03-23-chapter-603.html",
+        "createdAt": "2026-03-23T21:50:00+09:00"
+      },
+      {
+        "chapter": 602,
+        "title": "第602章：風の賢者ウィンディア",
+        "file": "2026-03-23-chapter-602.html",
+        "createdAt": "2026-03-23T21:40:00+09:00"
+      },
+      {
+        "chapter": 600,
+        "title": "第600章：虚空の使者",
+        "file": "2026-03-23-chapter-600.html",
+        "createdAt": "2026-03-23T21:20:00+09:00"
+      },
+      {
+        "chapter": 599,
+        "title": "第599章：第三層の封印",
+        "file": "2026-03-23-chapter-599.html",
+        "createdAt": "2026-03-23T21:06:00+09:00"
+      },
+      {
+        "chapter": 598,
+        "title": "第598章：母の失踪",
+        "file": "2026-03-23-chapter-598.html",
+        "createdAt": "2026-03-23T20:56:00+09:00"
+      },
+      {
+        "chapter": 597,
+        "title": "第597章：父の最後の言葉",
+        "file": "2026-03-23-chapter-597.html",
+        "createdAt": "2026-03-23T20:56:00+09:00"
+      },
+      {
+        "chapter": 596,
+        "title": "第596章：感情の境界線",
+        "file": "2026-03-23-chapter-596.html",
+        "createdAt": "2026-03-23T20:36:00+09:00"
+      },
+      {
+        "chapter": 595,
+        "title": "第595章：第二層への道標",
+        "file": "2026-03-23-chapter-595.html",
+        "createdAt": "2026-03-23T20:26:00+09:00"
+      },
+      {
+        "chapter": 594,
+        "title": "第594章：第一層の解封",
+        "file": "2026-03-23-chapter-594.html",
+        "createdAt": "2026-03-23T20:16:00+09:00"
+      },
+      {
+        "chapter": 590,
+        "title": "第590章：隠された真実",
+        "file": "2026-03-23-chapter-590.html",
+        "createdAt": "2026-03-23T19:45:00+09:00"
+      },
+      {
+        "chapter": 589,
+        "title": "第589章：静寂の朝",
+        "file": "2026-03-23-chapter-589.html",
+        "createdAt": "2026-03-23T19:29:00+09:00"
+      },
+      {
+        "chapter": 588,
+        "title": "第588章：帰還の夜",
+        "file": "2026-03-23-chapter-588.html",
+        "createdAt": "2026-03-23T19:15:00+09:00"
+      },
+      {
+        "chapter": 587,
+        "title": "第587章：選択の代償",
+        "file": "2026-03-23-chapter-587.html",
+        "createdAt": "2026-03-23T19:03:00+09:00"
+      },
+      {
+        "chapter": 586,
+        "title": "第586章：因果の深淵",
+        "file": "2026-03-23-chapter-586.html",
+        "createdAt": "2026-03-23T18:56:00+09:00"
+      },
+      {
+        "chapter": 585,
+        "title": "第585章：現在の証明",
+        "file": "2026-03-23-chapter-585.html",
+        "createdAt": "2026-03-23T18:46:00+09:00"
+      },
+      {
+        "chapter": 584,
+        "title": "第584章：未来の覚悟",
+        "file": "2026-03-23-chapter-584.html",
+        "createdAt": "2026-03-23T18:26:00+09:00"
+      },
+      {
+        "chapter": 581,
+        "title": "第581章：虚無の聖域",
+        "file": "2026-03-23-chapter-581.html",
+        "createdAt": "2026-03-23T17:48:00+09:00"
+      },
+      {
+        "chapter": 580,
+        "title": "第580章：虚空の境界",
+        "file": "2026-03-23-chapter-580.html",
+        "createdAt": "2026-03-23T17:37:00+09:00"
+      },
+      {
+        "chapter": 579,
+        "title": "第579章：希望の灯火",
+        "file": "2026-03-23-chapter-579.html",
+        "createdAt": "2026-03-23T17:27:00+09:00"
+      },
+      {
+        "chapter": 577,
+        "title": "第577章：闇の残響",
+        "file": "2026-03-23-chapter-577.html",
+        "createdAt": "2026-03-23T17:10:00+09:00"
+      },
+      {
+        "chapter": 575,
+        "title": "第575章：北への道標",
+        "file": "2026-03-23-chapter-575.html",
+        "createdAt": "2026-03-23T16:53:00+09:00"
+      },
+      {
+        "chapter": 574,
+        "title": "第574章：炎の賢者",
+        "file": "2026-03-23-chapter-574.html",
+        "createdAt": "2026-03-23T16:43:00+09:00"
+      },
+      {
+        "chapter": 573,
+        "title": "第573章：西への旅立ち",
+        "file": "2026-03-23-chapter-573.html",
+        "createdAt": "2026-03-23T16:30:00+09:00"
+      },
+      {
+        "chapter": 572,
+        "title": "第572章：氷の災厄との交戦",
+        "file": "2026-03-23-chapter-572.html",
+        "createdAt": "2026-03-23T16:20:00+09:00"
+      },
+      {
+        "chapter": 571,
+        "title": "第571章：氷精の試練",
+        "file": "2026-03-23-chapter-571.html",
+        "createdAt": "2026-03-23T16:03:00+09:00"
+      },
+      {
+        "chapter": 570,
+        "title": "第570章：雪原の足跡",
+        "file": "2026-03-23-chapter-570.html",
+        "createdAt": "2026-03-23T15:50:00+09:00"
+      },
+      {
+        "chapter": 566,
+        "title": "第566章：中央ギルドの地下",
+        "file": "2026-03-23-chapter-566.html",
+        "createdAt": "2026-03-23T15:10:00+09:00"
+      },
+      {
+        "chapter": 565,
+        "title": "第565章：雲上の追跡者",
+        "file": "2026-03-23-chapter-565.html",
+        "createdAt": "2026-03-23T15:00:00+09:00"
+      },
+      {
+        "chapter": 564,
+        "title": "第564章：解放の余韻",
+        "file": "2026-03-23-chapter-564.html",
+        "createdAt": "2026-03-23T14:47:00+09:00"
+      },
+      {
+        "chapter": 563,
+        "title": "第563章：闇との交錯",
+        "file": "2026-03-23-chapter-563.html",
+        "createdAt": "2026-03-23T14:37:00+09:00"
+      },
+      {
+        "chapter": 562,
+        "title": "第562章：風の結界",
+        "file": "2026-03-23-chapter-562.html",
+        "createdAt": "2026-03-23T14:27:00+09:00"
+      },
+      {
+        "chapter": 560,
+        "title": "第560章：地下通路の先",
+        "file": "2026-03-23-chapter-560.html",
+        "createdAt": "2026-03-23T14:10:00+09:00"
+      },
       {
         "chapter": 558,
         "title": "第558章：風の呼び声",
