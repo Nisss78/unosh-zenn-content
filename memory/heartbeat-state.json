@@ -11,9 +11,9 @@
       "collectedAt": "2026-03-24T11:38:00+09:00"
     },
     "evening": {
-      "lastRun": "2026-03-23",
+      "lastRun": "2026-03-24",
       "status": "success",
-      "collectedAt": "2026-03-23T18:32:00+09:00"
+      "collectedAt": "2026-03-24T18:58:00+09:00"
     }
   },
   "leadLagResult": {
@@ -103,12 +103,288 @@
       ],
       "startedAt": "2026-03-19"
     },
-    "lastChapter": 702,
-    "lastTitle": "第702章：もう一人の管理者",
-    "lastPostedAt": "2026-03-24T15:19:00+09:00",
+    "lastChapter": 755,
+    "lastTitle": "第755章：管理者の塔の入り口",
+    "lastPostedAt": "2026-03-24T21:48:00+09:00",
     "lastUrl": null,
     "totalChapters": 100,
     "pendingPosts": [
+      {
+        "chapter": 755,
+        "title": "第755章：管理者の塔の入り口",
+        "file": "2026-03-25-chapter-755.html",
+        "createdAt": "2026-03-25T00:50:00+09:00"
+      },
+      {
+        "chapter": 754,
+        "title": "第754章：氷雪の試練",
+        "file": "2026-03-25-chapter-754.html",
+        "createdAt": "2026-03-25T00:45:00+09:00"
+      },
+      {
+        "chapter": 753,
+        "title": "第753章：氷雪の入り口",
+        "file": "2026-03-25-chapter-753.html",
+        "createdAt": "2026-03-25T00:30:00+09:00"
+      },
+      {
+        "chapter": 752,
+        "title": "第752章：北への航路",
+        "file": "2026-03-25-chapter-752.html",
+        "createdAt": "2026-03-25T00:18:00+09:00"
+      },
+      {
+        "chapter": 750,
+        "title": "第750章：封印の真相",
+        "file": "2026-03-25-chapter-750.html",
+        "createdAt": "2026-03-25T00:00:00+09:00"
+      },
+      {
+        "chapter": 749,
+        "title": "第749章：深海の予兆",
+        "file": "2026-03-25-chapter-749.html",
+        "createdAt": "2026-03-25T00:00:00+09:00"
+      },
+      {
+        "chapter": 748,
+        "title": "第748章：海上の異変",
+        "file": "2026-03-24-chapter-748.html",
+        "createdAt": "2026-03-24T23:33:00+09:00"
+      },
+      {
+        "chapter": 747,
+        "title": "第747章：水呼吸の訓練",
+        "file": "2026-03-24-chapter-747.html",
+        "createdAt": "2026-03-24T23:23:00+09:00"
+      },
+      {
+        "chapter": 746,
+        "title": "第746章：氷雪の試練",
+        "file": "2026-03-24-chapter-746.html",
+        "createdAt": "2026-03-24T23:15:00+09:00"
+      },
+      {
+        "chapter": 745,
+        "title": "第745章：北の山脈",
+        "file": "2026-03-24-chapter-745.html",
+        "createdAt": "2026-03-24T23:10:00+09:00"
+      },
+      {
+        "chapter": 744,
+        "title": "第744章：アルヴァレスへの帰還",
+        "file": "2026-03-24-chapter-744.html",
+        "createdAt": "2026-03-24T22:53:00+09:00"
+      },
+      {
+        "chapter": 743,
+        "title": "第743章：峡谷からの帰還",
+        "file": "2026-03-24-chapter-743.html",
+        "createdAt": "2026-03-24T22:43:00+09:00"
+      },
+      {
+        "chapter": 741,
+        "title": "第741章：封印への道標",
+        "file": "2026-03-24-chapter-741.html",
+        "createdAt": "2026-03-24T22:18:00+09:00"
+      },
+      {
+        "chapter": 740,
+        "title": "第740章：廃墟の街",
+        "file": "2026-03-24-chapter-740.html",
+        "createdAt": "2026-03-24T22:08:00+09:00"
+      },
+      {
+        "chapter": 739,
+        "title": "第739章：西風の導き",
+        "file": "2026-03-24-chapter-739.html",
+        "createdAt": "2026-03-24T21:58:00+09:00"
+      },
+      {
+        "chapter": 737,
+        "title": "第737章：平穏な朝",
+        "file": "2026-03-24-chapter-737.html",
+        "createdAt": "2026-03-24T21:48:00+09:00"
+      },
+      {
+        "chapter": 735,
+        "title": "第735章：七色の円陣",
+        "file": "2026-03-24-chapter-735.html",
+        "createdAt": "2026-03-24T21:15:00+09:00"
+      },
+      {
+        "chapter": 734,
+        "title": "第734章：七賢者の招集",
+        "file": "2026-03-24-chapter-734.html",
+        "createdAt": "2026-03-24T21:05:00+09:00"
+      },
+      {
+        "chapter": 732,
+        "title": "第732章：ルミナリアの守護者",
+        "file": "2026-03-24-chapter-732.html",
+        "createdAt": "2026-03-24T20:45:00+09:00"
+      },
+      {
+        "chapter": 729,
+        "title": "第729章：風の峡谷",
+        "file": "2026-03-24-chapter-729.html",
+        "createdAt": "2026-03-24T20:23:00+09:00"
+      },
+      {
+        "chapter": 728,
+        "title": "第728章：七賢者の結集",
+        "file": "2026-03-24-chapter-728.html",
+        "createdAt": "2026-03-24T20:03:00+09:00"
+      },
+      {
+        "chapter": 727,
+        "title": "第727章：賢者の塔への道",
+        "file": "2026-03-24-chapter-727.html",
+        "createdAt": "2026-03-24T19:53:00+09:00"
+      },
+      {
+        "chapter": 726,
+        "title": "第726章：炎の最上層",
+        "file": "2026-03-24-chapter-726.html",
+        "createdAt": "2026-03-24T19:50:00+09:00"
+      },
+      {
+        "chapter": 725,
+        "title": "第725章：炎の幻影",
+        "file": "2026-03-24-chapter-725.html",
+        "createdAt": "2026-03-24T19:33:00+09:00"
+      },
+      {
+        "chapter": 724,
+        "title": "第724章：炎の巨人との激突",
+        "file": "2026-03-24-chapter-724.html",
+        "createdAt": "2026-03-24T19:20:00+09:00"
+      },
+      {
+        "chapter": 723,
+        "title": "第723章：灼熱の招待状",
+        "file": "2026-03-24-chapter-723.html",
+        "createdAt": "2026-03-24T19:10:00+09:00"
+      },
+      {
+        "chapter": 722,
+        "title": "第722章：最果ての真実",
+        "file": "2026-03-24-chapter-722.html",
+        "createdAt": "2026-03-24T19:00:00+09:00"
+      },
+      {
+        "chapter": 721,
+        "title": "第721章：七属性の戦場",
+        "file": "2026-03-24-chapter-721.html",
+        "createdAt": "2026-03-24T18:50:00+09:00"
+      },
+      {
+        "chapter": 720,
+        "title": "第720章：答えなき問い",
+        "file": "2026-03-24-chapter-720.html",
+        "createdAt": "2026-03-24T18:40:00+09:00"
+      },
+      {
+        "chapter": 719,
+        "title": "第719章：忍耐の果て",
+        "file": "2026-03-24-chapter-719.html",
+        "createdAt": "2026-03-24T18:20:00+09:00"
+      },
+      {
+        "chapter": 718,
+        "title": "第718章：勇気の深淵",
+        "file": "2026-03-24-chapter-718.html",
+        "createdAt": "2026-03-24T18:12:00+09:00"
+      },
+      {
+        "chapter": 717,
+        "title": "第717章：知恵の迷宮",
+        "file": "2026-03-24-chapter-717.html",
+        "createdAt": "2026-03-24T18:02:00+09:00"
+      },
+      {
+        "chapter": 716,
+        "title": "第716章：第一層の守護者",
+        "file": "2026-03-24-chapter-716.html",
+        "createdAt": "2026-03-24T17:52:00+09:00"
+      },
+      {
+        "chapter": 715,
+        "title": "第715章：海上の刺客",
+        "file": "2026-03-24-chapter-715.html",
+        "createdAt": "2026-03-24T17:42:00+09:00"
+      },
+      {
+        "chapter": 714,
+        "title": "第714章：原初の認定",
+        "file": "2026-03-24-chapter-714.html",
+        "createdAt": "2026-03-24T17:32:00+09:00"
+      },
+      {
+        "chapter": 713,
+        "title": "第713章：父の記憶",
+        "file": "2026-03-24-chapter-713.html",
+        "createdAt": "2026-03-24T17:22:00+09:00"
+      },
+      {
+        "chapter": 712,
+        "title": "第712章：光の刺客",
+        "file": "2026-03-24-chapter-712.html",
+        "createdAt": "2026-03-24T17:11:00+09:00"
+      },
+      {
+        "chapter": 711,
+        "title": "第711章：知恵の試練",
+        "file": "2026-03-24-chapter-711.html",
+        "createdAt": "2026-03-24T17:01:00+09:00"
+      },
+      {
+        "chapter": 710,
+        "title": "第710章：元管理者の真実",
+        "file": "2026-03-24-chapter-710.html",
+        "createdAt": "2026-03-24T16:51:00+09:00"
+      },
+      {
+        "chapter": 709,
+        "title": "第709章：泉の守護者",
+        "file": "2026-03-24-chapter-709.html",
+        "createdAt": "2026-03-24T16:41:00+09:00"
+      },
+      {
+        "chapter": 708,
+        "title": "第708章：虚無との対話",
+        "file": "2026-03-24-chapter-708.html",
+        "createdAt": "2026-03-24T16:31:00+09:00"
+      },
+      {
+        "chapter": 707,
+        "title": "第707章：第一席の影",
+        "file": "2026-03-24-chapter-707.html",
+        "createdAt": "2026-03-24T16:31:00+09:00"
+      },
+      {
+        "chapter": 706,
+        "title": "第706章：世界の異変",
+        "file": "2026-03-24-chapter-706.html",
+        "createdAt": "2026-03-24T16:19:00+09:00"
+      },
+      {
+        "chapter": 705,
+        "title": "第705章：内なる深淵",
+        "file": "2026-03-24-chapter-705.html",
+        "createdAt": "2026-03-24T16:09:00+09:00"
+      },
+      {
+        "chapter": 704,
+        "title": "第704章：虚無の深淵",
+        "file": "2026-03-24-chapter-704.html",
+        "createdAt": "2026-03-24T15:49:00+09:00"
+      },
+      {
+        "chapter": 703,
+        "title": "第703章：管理者の覚醒",
+        "file": "2026-03-24-chapter-703.html",
+        "createdAt": "2026-03-24T15:39:00+09:00"
+      },
       {
         "chapter": 702,
         "title": "第702章：もう一人の管理者",
