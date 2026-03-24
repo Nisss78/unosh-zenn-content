@@ -103,12 +103,24 @@
       ],
       "startedAt": "2026-03-19"
     },
-    "lastChapter": 700,
-    "lastTitle": "第700章：深淵の管理者",
-    "lastPostedAt": "2026-03-24T15:07:00+09:00",
+    "lastChapter": 702,
+    "lastTitle": "第702章：もう一人の管理者",
+    "lastPostedAt": "2026-03-24T15:19:00+09:00",
     "lastUrl": null,
     "totalChapters": 100,
     "pendingPosts": [
+      {
+        "chapter": 702,
+        "title": "第702章：もう一人の管理者",
+        "file": "2026-03-24-chapter-702.html",
+        "createdAt": "2026-03-24T15:29:00+09:00"
+      },
+      {
+        "chapter": 701,
+        "title": "第701章：深淵の真実",
+        "file": "2026-03-24-chapter-701.html",
+        "createdAt": "2026-03-24T15:19:00+09:00"
+      },
       {
         "chapter": 700,
         "title": "第700章：深淵の管理者",
